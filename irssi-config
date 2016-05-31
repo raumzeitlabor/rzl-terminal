@@ -1,6 +1,6 @@
 servers = (
   {
-    address = "shells.fnordserver.eu";
+    address = "bnc.fnordserver.net";
     chatnet = "hackint";
     port = "1500";
     use_ssl = "yes";
